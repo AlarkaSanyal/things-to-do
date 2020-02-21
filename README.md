@@ -5,10 +5,10 @@
 # 2. Progressions
 * https://www.hitbullseye.com/Quant/Arithmetic-Geometric-Harmonic-Progressions.php
 ## Arithmetic
-* https://www.youtube.com/watch?v=lj_X9JVSF8k
-* 
+* Sequence terms: https://www.youtube.com/watch?v=lj_X9JVSF8k
+* Sum: https://youtu.be/xhah3xwVtSU
 ## Geometric
-* https://www.youtube.com/watch?v=IGFQXInm-co
+* Sequence terms: https://www.youtube.com/watch?v=IGFQXInm-co
 * 
 ## Harmonic
 * 
