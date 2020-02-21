@@ -9,6 +9,6 @@
 * Sum: https://youtu.be/xhah3xwVtSU
 ## Geometric
 * Sequence terms: https://www.youtube.com/watch?v=IGFQXInm-co
-* 
+* Sum: https://youtu.be/4baQj2-BZHM
 ## Harmonic
 * 
